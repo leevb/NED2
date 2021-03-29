@@ -1,7 +1,7 @@
 # NED2
-### _Ned Enhances Diablo 2_
+### _Ned2 Enhances Diablo 2_
 
-NED2 is a simple, minimal, and reliable filter made for *Project Diablo 2*. It aims to balance useabilty with aesthetics giving an overall better PD2 experience. Components, such as Runeword applicability, are built algorithmically using a custom database, which both improves completeness and minimizes the overall size of the filter.
+NED2 is a simple, minimal, and reliable filter made for *Project Diablo 2*. It aims to balance usabilty with aesthetics giving an overall better PD2 experience. Components, such as Runeword applicability, are built algorithmically using a custom database, which both improves completeness and minimizes the overall size of the filter.
 
 ## Features
 
